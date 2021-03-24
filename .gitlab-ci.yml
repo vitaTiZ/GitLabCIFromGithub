@@ -4,4 +4,4 @@ stages:
 test:
     stage: test
     script:
-        - echo "CIAO!"
+        - echo "Pino!"
